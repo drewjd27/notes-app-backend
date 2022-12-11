@@ -40,7 +40,7 @@ Kemudian pada bagian header website tersebut, klik *change url*.
 
 
 
-Akan muncul input text untuk menampung host beserta port dari web server yang kita buat. Di project ini, saya menetapkannya pada *localhost:5000*
+Akan muncul input text untuk menampung host beserta port dari web server yang kita buat. Di project ini, saya menetapkannya pada **localhost:5000**
 
 ![insert-url-web-server](https://user-images.githubusercontent.com/26517220/206915045-75ad5c82-d18f-4d0e-97ad-5de6d4a34396.png)
 

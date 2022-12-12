@@ -19,6 +19,7 @@ Berikut adalah teknologi yang digunakan untuk membangun aplikasi web server ini 
 * [Hapi](https://hapi.dev/)
 * [ESLint](https://eslint.org/)
 * [Nodemon](https://nodemon.io/)
+* [Nano ID](https://www.npmjs.com/package/nanoid)
 
 
 ## Menjalankan Web Server
